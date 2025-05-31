@@ -39,3 +39,6 @@ I'm a data analyst with 2.5+ years of experience in data preprocessing, market r
 **Others:** SPSS, Survey Reporter, Git
 
 ---
+
+📫 **Let’s Connect!**  
+I’m actively seeking Data Analyst / ML Engineer roles where I can apply my skills to real-world problems.
