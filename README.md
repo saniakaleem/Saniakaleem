@@ -1,4 +1,4 @@
-# 👩‍💻 Sania Kaleem – Data Analyst | ML Enthusiast
+# 👩‍💻 Sania Kaleem – Data Analyst | Machine Learnong | Data Scientist
 
 🎓 MS Data Science (In Progress)  
 📍 Karachi, Pakistan  
