@@ -4,7 +4,7 @@
 📍 Karachi, Pakistan  
 📬 Email: saniakaleem11555@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sania-kaleem-089697176/)  
-🔗 [Portfolio Projects](#projects)
+🔗 [Portfolio Projects]([#projects](https://github.com/saniakaleem?tab=repositories))
 
 ---
 
