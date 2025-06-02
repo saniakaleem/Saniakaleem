@@ -19,6 +19,8 @@ I'm a data analyst with 2.5+ years of experience in data preprocessing, market r
 - [Animal Skin Disease Detection](https://github.com/saniakaleem/your-project-link) – CNN-based classifier + research paper
 - [Netflix Recommender System](https://github.com/saniakaleem/your-project-link) – NLP + cosine similarity
 - [Supernatural Classification](https://github.com/saniakaleem/your-project-link) – Scikit-learn classification fun project
+- Stock Price Prediction (DASPP) – Desktop-based C# application integrated with Python ML models to predict company stock prices based on historical data and trends
+- Service Department Classifier (IoT_SD-VA) – IoT-based emergency service assistant that classifies voice inputs to direct calls to the appropriate hospital service department using machine learning
 
 ### 🔹 Data Analysis
 - [Diwali Sales Analysis](https://github.com/saniakaleem/your-project-link)
